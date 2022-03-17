@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_05_activity</string>
+    <string name="open_sec">Open Dialog</string>
+    <string name="exit">Exit App</string>
+    <string name="def">Text will be here</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit_msg">Выйти из приложения?</string>
+    <string name="exit_title">Выход</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="state1">Состояние 1</string>
+    <string name="state2">Состояние 2</string>
+</resources>
